@@ -1,0 +1,8 @@
+C:\Users\kubra\source\repos\ThreadSample\ThreadSample\bin\Debug\ThreadSample.exe.config
+C:\Users\kubra\source\repos\ThreadSample\ThreadSample\bin\Debug\ThreadSample.exe
+C:\Users\kubra\source\repos\ThreadSample\ThreadSample\bin\Debug\ThreadSample.pdb
+C:\Users\kubra\source\repos\ThreadSample\ThreadSample\obj\Debug\ThreadSample.csproj.AssemblyReference.cache
+C:\Users\kubra\source\repos\ThreadSample\ThreadSample\obj\Debug\ThreadSample.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubra\source\repos\ThreadSample\ThreadSample\obj\Debug\ThreadSample.csproj.CoreCompileInputs.cache
+C:\Users\kubra\source\repos\ThreadSample\ThreadSample\obj\Debug\ThreadSample.exe
+C:\Users\kubra\source\repos\ThreadSample\ThreadSample\obj\Debug\ThreadSample.pdb
